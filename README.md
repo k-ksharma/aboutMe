@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Network and security**
 
-- 📄 Know about my experiences [from my resume]([https://drive.google.com/file/d/1LKL-56O9xx4FYhjuPejKjMUqomMbKTHV/view?usp=sharing](https://drive.google.com/file/d/1YKqiqwo3GviuKQNGnUf6LOkFXdOcZ_kE/view?usp=sharing))
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1YKqiqwo3GviuKQNGnUf6LOkFXdOcZ_kE/view?usp=sharing)
 
 - 📝 I regularly practice on [TryHackMe](https://tryhackme.com/p/krishna16aug)\
 ![tryhackme stats](https://github.com/sharma16aug/aboutMe/blob/main/assets/thm_propic.png)
