@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [from my resume]([https://drive.google.com/file/d/1LKL-56O9xx4FYhjuPejKjMUqomMbKTHV/view?usp=sharing](https://drive.google.com/file/d/1YKqiqwo3GviuKQNGnUf6LOkFXdOcZ_kE/view?usp=sharing))
 
 - 📝 I regularly practice on [TryHackMe](https://tryhackme.com/p/krishna16aug)
-<script src="https://tryhackme.com/badge/565551"></script>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
